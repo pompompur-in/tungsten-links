@@ -1,8 +1,35 @@
 {
   "mirrors": [
-    "https://duke-motorola-mobiles-ext.trycloudflare.com",
-    "https://draw-zoning-education-colours.trycloudflare.com",
-    "https://ridge-cons-purchases-philips.trycloudflare.com"
+    "https://travelling-timber-styles-assume.trycloudflare.com",
+    "https://resistance-educational-brown-comments.trycloudflare.com",
+    "https://floor-halifax-possible-biographies.trycloudflare.com",
+    "https://episode-relate-promotes-white.trycloudflare.com",
+    "https://points-scenic-cabin-code.trycloudflare.com",
+    "https://project-displays-warrior-thou.trycloudflare.com",
+    "https://7l75i2err2ashwd2zbz425qrri.srv.us",
+    "https://q5qawieyh64lf6shwslmd422xu.srv.us"
   ],
-  "updated": 1795123758829
+  "groups": [
+    {
+      "provider": "Cloudflare",
+      "domain": "trycloudflare.com",
+      "mirrors": [
+        "https://travelling-timber-styles-assume.trycloudflare.com",
+        "https://resistance-educational-brown-comments.trycloudflare.com",
+        "https://floor-halifax-possible-biographies.trycloudflare.com",
+        "https://episode-relate-promotes-white.trycloudflare.com",
+        "https://points-scenic-cabin-code.trycloudflare.com",
+        "https://project-displays-warrior-thou.trycloudflare.com"
+      ]
+    },
+    {
+      "provider": "srv.us",
+      "domain": "srv.us",
+      "mirrors": [
+        "https://7l75i2err2ashwd2zbz425qrri.srv.us",
+        "https://q5qawieyh64lf6shwslmd422xu.srv.us"
+      ]
+    }
+  ],
+  "updated": 1795206617214
 }
