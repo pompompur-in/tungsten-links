@@ -6,8 +6,8 @@
     "https://representing-boutique-intimate-surrounding.trycloudflare.com",
     "https://deutsche-truly-stolen-synthesis.trycloudflare.com",
     "https://foam-tutorials-drinking-venture.trycloudflare.com",
-    "https://7l75i2err2ashwd2zbz425qrri.srv.us",
-    "https://q5qawieyh64lf6shwslmd422xu.srv.us"
+    "https://q5qawieyh64lf6shwslmd422xu.srv.us",
+    "https://7l75i2err2ashwd2zbz425qrri.srv.us"
   ],
   "groups": [
     {
@@ -26,10 +26,10 @@
       "provider": "srv.us",
       "domain": "srv.us",
       "mirrors": [
-        "https://7l75i2err2ashwd2zbz425qrri.srv.us",
-        "https://q5qawieyh64lf6shwslmd422xu.srv.us"
+        "https://q5qawieyh64lf6shwslmd422xu.srv.us",
+        "https://7l75i2err2ashwd2zbz425qrri.srv.us"
       ]
     }
   ],
-  "updated": 1795640077227
+  "updated": 1795672673909
 }
